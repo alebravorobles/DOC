@@ -32,8 +32,8 @@
 
 TITULOS
 
-# Header 01 (solo el h1 dibuja la línea)
-## Header 02
+# Header 01 (solo el h1 dibuja la línea en VSC)
+## Header 02 (en github el h2 aparece con línea)
 ### Header 03
 #### Header 04
 ##### Header 05
@@ -42,15 +42,13 @@ TITULOS
 
 </br></br></br>
 
-## HR 
-(dibujo la línea)
+## HR (dibujo la línea como separador)
 <hr />
 
 </br></br></br>
 
-## BR
-(salto línea)
-<br />
+## BR (salto de línea)
+`<br />`
 
 
 </br></br></br>
@@ -110,8 +108,7 @@ normal text <sup>superscripted</sup> normal text
 </br></br></br>
 
 ## COMENTARIOS
-
-<!-- This content will not appear in the rendered Markdown -->
+`<!-- This content will not appear in the rendered Markdown -->`
 
 
 </br></br></br>
@@ -338,6 +335,14 @@ See more: https://shields.io/
 - <a href="https://gitlab.example.com/namespace/project/branch/user@example.com">user@example.com</a>.
 - <a href="mailto:user@example.com">user@example.com</a>
 - user@example.com, which results in <a href="mailto:user@example.com">user@example.com</a>.
+
+<hr />
+
+## EMOJIS
+
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
+
 
 <br><hr>
 [🔼 Back to top](#Index-anchor)
