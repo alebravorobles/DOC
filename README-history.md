@@ -17,6 +17,7 @@
 <!-- Link al video -->
 > [Ver grabación de la presentación](https://dominio.com/loremipsum)
 </br>
+
 <!-- Link al video -->
 [README.md](https://dominio.com/loremipsum)
 </br>
@@ -41,6 +42,7 @@ Rol / Equipo </br>
 <!-- Link al video -->
 > [Ver grabación de la presentación](https://dominio.com/loremipsum)
 </br>
+
 <!-- Link al video -->
 [README.md](https://dominio.com/loremipsum)
 </br>
@@ -63,6 +65,7 @@ Rol / Equipo </br>
 <!-- Link al video -->
 > [Ver grabación de la presentación](https://dominio.com/loremipsum)
 </br>
+
 <!-- Link al video -->
 [README.md](https://dominio.com/loremipsum)
 </br>
