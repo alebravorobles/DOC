@@ -6,9 +6,18 @@
 
 ## INDEX ANCHOR
 
-- [Lorem ipsum dolor sit](#section-i-want)
+<!-- El anchor busca el título que le hace match -->
+- [Lorem ipsum dolor sit](#section-uno)
+- [Lorem ipsum dolor sit](#section-dos)
+- [Lorem ipsum dolor sit](#section-tres)
+- [Lorem ipsum dolor sit](#section-cuatro)
+- [Lorem ipsum dolor sit](#section-cinco)
 
-## Section I Want
+## Section Uno
+## Section Dos
+## Section Tres
+## Section Cuatro
+## Section Cinco
 
 
 </br></br></br>
