@@ -322,4 +322,5 @@ See more: https://shields.io/
 - <a href="mailto:user@example.com">user@example.com</a>
 - user@example.com, which results in <a href="mailto:user@example.com">user@example.com</a>.
 
-<hr />
+<br><hr>
+[🔼 Back to top](#Index-anchor)
