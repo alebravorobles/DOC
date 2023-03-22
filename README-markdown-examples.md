@@ -7,11 +7,11 @@
 ## INDEX ANCHOR
 
 <!-- El anchor busca el título que le hace match -->
-- [Lorem ipsum dolor sit](#section-uno)
-- [Lorem ipsum dolor sit](#section-dos)
-- [Lorem ipsum dolor sit](#section-tres)
-- [Lorem ipsum dolor sit](#section-cuatro)
-- [Lorem ipsum dolor sit](#section-cinco)
+1. [Section Uno](#section-uno)
+2. [Section Dos](#section-dos)
+3. [Section Tres](#section-tres)
+4. [Section Cuatro](#section-cuatro)
+5. [Section Cinco](#section-cinco)
 
 ## Section Uno
 ## Section Dos
