@@ -1,9 +1,4 @@
 
-
-
-</br></br></br>
-
-
 ## INDEX ANCHOR
 <!-- El anchor busca el título que le hace match -->
 1. [Section Uno](#section-uno)
@@ -49,6 +44,15 @@ TITULOS
 
 ## BR (salto de línea)
 `<br />`
+
+
+</br></br></br>
+
+## LINEAS
+
+---
+***
+___
 
 
 </br></br></br>
@@ -149,10 +153,24 @@ normal text <sup>superscripted</sup> normal text
 </br></br></br>
 
 ## LISTA DE TAREAS
-
+<!-- funciona solamente con un script en Github! -->
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
+- [ ] \(Optional) Open a followup issue 
+
+
+</br></br></br>
+
+## LINKS
+
+- [The-Ultimate-Markdown-Cheat-Sheet][reference text]
+- [The-Ultimate-Markdown-Cheat-Sheet][1]
+- [Markdown-Cheat-Sheet]
+
+[reference text]: https://github.com/lifeparticle/Markdown-Cheatsheet
+[1]: https://github.com/lifeparticle/Markdown-Cheatsheet
+[Markdown-Cheat-Sheet]: https://github.com/lifeparticle/Markdown-Cheatsheet
 
 
 
@@ -264,6 +282,21 @@ Table align right
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
+
+
+<p align="left">
+<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+</p>
+
+<p align="center">
+<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+</p>
+
+<p align="right">
+<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+</p>
+
+
 </br></br></br>
 
 ## COLAPSABLES
@@ -282,6 +315,7 @@ Table align right
   }
   ```
 </details>
+
 
 
 
