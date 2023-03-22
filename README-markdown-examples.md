@@ -5,8 +5,6 @@
 
 
 ## INDEX ANCHOR
-
-## INDEX ANCHOR
 <!-- El anchor busca el título que le hace match -->
 1. [Section Uno](#section-uno)
 2. [Section Dos](#section-dos)
