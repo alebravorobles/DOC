@@ -8,19 +8,19 @@
 5. [Section Cinco](#section-cinco)
 
 ## Section Uno
-[🔼 Back to top](#Index-anchor)
+[ ˆ Back to top](#index-anchor)
 
 ## Section Dos
-[🔼 Back to top](#Index-anchor)
+[ ˆ Back to top](#index-anchor)
 
 ## Section Tres
-[🔼 Back to top](#Index-anchor)
+[ ˆ Back to top](#index-anchor)
 
 ## Section Cuatro
-[🔼 Back to top](#Index-anchor)
+[ ˆ Back to top](#index-anchor)
 
 ## Section Cinco
-[🔼 Back to top](#Index-anchor)
+[ ˆ Back to top](#index-anchor)
 
 
 </br></br></br>
@@ -379,4 +379,4 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 
 <br><hr>
-[🔼 Back to top](#Index-anchor)
+[ ˆ Back to top](#index-anchor)
