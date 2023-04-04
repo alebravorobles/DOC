@@ -1,7 +1,6 @@
 # Comunidad Nombre
 ## Historial de Presentaciones
 
-
 ##### Fecha Presentación
 #### 22/03/2023
 
@@ -18,7 +17,7 @@
 > [Ver grabación de la presentación](https://dominio.com/loremipsum)
 </br>
 
-<!-- Link al video -->
+<!-- Link al readme -->
 [README.md](https://dominio.com/loremipsum)
 </br>
 
@@ -43,7 +42,7 @@ Rol / Equipo </br>
 > [Ver grabación de la presentación](https://dominio.com/loremipsum)
 </br>
 
-<!-- Link al video -->
+<!-- Link al readme -->
 [README.md](https://dominio.com/loremipsum)
 </br>
 
@@ -66,7 +65,7 @@ Rol / Equipo </br>
 > [Ver grabación de la presentación](https://dominio.com/loremipsum)
 </br>
 
-<!-- Link al video -->
+<!-- Link al readme -->
 [README.md](https://dominio.com/loremipsum)
 </br>
 
